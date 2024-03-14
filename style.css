@@ -1,0 +1,108 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sectionOne{
+    padding:90px;
+    margin:2rem;
+    display: flex;
+    border: solid rosybrown;
+    border-radius: 10px;
+}
+.classUp button{
+    margin-top: 2rem;
+    width: 100px;
+    margin-left: 5rem;
+}
+.classUp p{
+    text-align: justify;
+    margin: 2rem;
+}
+
+.classUp h1{
+    margin-left: 2.5rem;
+}
+.jona{
+    border-radius: 10px;
+    border:solid pink;
+    display: flex;
+    width: 150px;
+    height: 150px;
+}
+.classDown {
+    margin: 2rem;
+    padding:4rem;
+}
+.classDown h1{
+    text-align: center;
+}
+.sectionTwo {
+    padding:100px;
+
+}
+.jamille{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    float: left;
+    margin:3rem;
+}
+.knight{
+    margin:3rem;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    float: left;
+}
+.owwsic{
+    margin:3rem;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    float:left;
+    
+}
+.j{
+   display: flex;
+   margin:3rem;
+   float:left;
+   margin-bottom: 0;
+}
+.k{
+    display: flex;
+    margin:3rem;
+   float:left;
+   margin-bottom: 0;
+   margin-left: 0;
+}
+.o{
+    display: flex;
+    margin:3rem;
+   float:left;
+}
+.bn1{
+    display: flex;
+   float:left;
+   margin-left: 5rem;
+   margin: 6rem;
+   width: 100px;
+}
+.bn2{
+    display: flex;
+    float:left;
+    margin-left: 5rem;
+    margin: 6rem;
+    width: 100px;
+}
+.bn3{
+    display: flex;
+    margin-left: 5rem;
+    float:left;
+    width: 100px;
+    margin: 6rem;
+}
